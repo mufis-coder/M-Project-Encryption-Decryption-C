@@ -5,13 +5,17 @@ int main () {
 	char kata[100], kunci[100], hasil[100];
 	int iKunci=0, panKunci, panKata, i, tanda[100];
 	printf("Masukan kunci:\n");
-	gets(kunci);
+	fgets(kunci, 100, stdin);
+	kunci[strlen(kunci) - 1] = '\0';
+
 	panKunci = strlen (kunci);
 	for (i=0;i<=panKunci;i++) {
 		iKunci = iKunci + kunci [i];
 	}
 	printf("Masukan kata:\n");
-	gets(kata);
+	fgets(kata, 100, stdin);
+	kata[strlen(kata) - 1] = '\0';
+
 	FILE *out;
 	out = fopen("tanda.txt", "w");
 	panKata = strlen (kata);
