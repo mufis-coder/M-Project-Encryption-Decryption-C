@@ -11,7 +11,8 @@ Hasil: Twuh mqvasyga wxgxadsa niraa 01
 ```
 
 screenshot hasil:
-![alt text](https://github.com/migellamp/Jarkom-Modul-2-E07-2021/blob/main/images/2c.jpg) <br />
+
+![alt text](https://github.com/mufis-coder/M-Project-Encryption-Decryption-C/blob/master/Doc/Enkripsi-1.0.0.png) <br />
 
 - Dekripsi:
   
@@ -22,4 +23,5 @@ Hasil: Test aplikasi enkripsi versi 01
 ```
 
 screenshot hasil:
-![alt text](https://github.com/migellamp/Jarkom-Modul-2-E07-2021/blob/main/images/2c.jpg) <br />
+
+![alt text](https://github.com/mufis-coder/M-Project-Encryption-Decryption-C/blob/master/Doc/Dekripsi-1.0.0.png) <br />
