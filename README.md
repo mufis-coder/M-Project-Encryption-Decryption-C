@@ -6,6 +6,6 @@ Untuk menjalankan aplikasi ini bisa menggunakan dev c++ atau vs code, jika mengg
 
 Catatan tiap versi:
 
-Versi 1.0.0: Pada versi ini telah bisa setiap huruf terenkripsi menjadi beberapa huruf yang berbeda, tetapi kekurangannya harus ada payload ("tanda.txt") yang harus dipasing antara aplikasi enkripsi dan dekripsi. Sehingga, masih ada celah untuk dipecahkan.
+- Versi 1.0.0: Pada versi ini telah bisa setiap huruf terenkripsi menjadi beberapa huruf yang berbeda, tetapi kekurangannya harus ada payload ("tanda.txt") yang harus dipasing antara aplikasi enkripsi dan dekripsi. Sehingga, masih ada celah untuk dipecahkan.
 
 
