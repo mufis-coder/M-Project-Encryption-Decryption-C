@@ -3,7 +3,7 @@
 
 int main () {
 	char kata[100], kunci[100], hasil[100];
-	int iKunci=0, panKunci, panKata, i, t, temp, var, k;
+	int iKunci=0, panKunci=0, panKata=0, i=0, t=0, temp=0, var=0, k=0;
 	printf("Masukan kunci:\n");
 	gets(kunci);
 	panKunci = strlen (kunci);
