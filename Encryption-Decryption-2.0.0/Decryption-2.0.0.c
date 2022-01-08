@@ -7,9 +7,9 @@ int main () {
 	
 	
 	printf("Masukan kata:\n");
-	gets(kata);
+	fgets(kata, 100, stdin);
 	printf("Masukan kunci:\n");
-	gets(kunci);
+	fgets(kunci, 100, stdin);
 	panKunci = strlen (kunci);
 	k=panKunci;
 	for (i=0;i<=panKunci;i++) {
@@ -38,7 +38,7 @@ int main () {
 		t--;
 	}
 	
-	printf("Hasil decode:\n");
+	printf("Hasil dekripsi:\n");
 	printf("%s", hasil2);
 	
 	return 0;
