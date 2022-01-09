@@ -1,4 +1,4 @@
-# Aplikasi Encryption-Decryption versi 2
+# Aplikasi Encryption-Decryption versi 3.0.0
 
 Berikut adalah hasil aplikasi saya versi ke 3.0.0:
 
