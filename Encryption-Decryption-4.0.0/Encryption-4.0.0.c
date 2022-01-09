@@ -3,16 +3,16 @@
 
 int main () {
 	char kata[1000], kunci[1000], hasil[1000];
-	int iKunci=0, panKunci, panKata, i, t, temp, var, k;
+	int iKunci=0, panKunci=0, panKata=0, i=0, t=0, temp=0, var=0, k=0;
 	printf("Masukan kunci:\n");
-	gets(kunci);
+	fgets(kunci, 100, stdin);
 	panKunci = strlen (kunci);
 	k=panKunci;
 	for (i=0;i<=panKunci;i++) {
 		iKunci = iKunci + kunci [i];
 	}
 	printf("Masukan kata:\n");
-	gets(kata);
+	fgets(kata, 100, stdin);
 	panKata = strlen (kata);
 	t = panKata;
 	for (i=0;i<=panKata;i++) {
