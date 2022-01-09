@@ -139,6 +139,6 @@ int main() {
 	for (i=0; i < hasil._size; ++i) {
         printf("%c", dArray_getAt(&hasil, i));
     }	
-	
+	printf("\n");
 	return 0;
 }

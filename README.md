@@ -13,3 +13,7 @@ Catatan tiap versi:
 - [Versi 3.0.0](https://github.com/mufis-coder/M-Project-Encryption-Decryption-C/tree/master/Encryption-Decryption-3.0.0): Pada versi ini, telah ada peningkatan dari versi 2.0.0, di mana rumus enkripsi dan dekripsi tidak dibuat secara statik. Tetapi enkripsi masih untuk huruf kecil.
 
 - [Versi 4.0.0](https://github.com/mufis-coder/M-Project-Encryption-Decryption-C/tree/master/Encryption-Decryption-4.0.0): Pada versi ini, telah ada peningkatan dari versi 3.0.0, di mana enkripsi telah berlaku untuk huruf kapital dan huruf kecil.
+
+  - [Versi 4.0.1](https://github.com/mufis-coder/M-Project-Encryption-Decryption-C/tree/master/Encryption-Decryption-4.0.1): Pada versi ini sama dengan versi 4.0.0, tetapi pada versi ini menggunakan DMA (Dynamic Memory Allocation) pada bahasa C. Sehingga array yang digunakan untuk menyimpan kalimat yang akan dienkripsi ukurannya bisa dinamik (mengikuti panjang hurufnya).
+
+//TODO: membuat aplikasi enkripsi-dekripsi yang setiap kali digenerate hasilnya berbeda. Ide: mungkin bisa ditambahkan kode signature pada akhir kalimat.
